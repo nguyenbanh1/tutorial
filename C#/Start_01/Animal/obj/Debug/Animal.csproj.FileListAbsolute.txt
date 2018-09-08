@@ -1,0 +1,7 @@
+C:\Users\Khanh Nguyen\Desktop\C#\Start_01\Animal\bin\Debug\Animal.exe.config
+C:\Users\Khanh Nguyen\Desktop\C#\Start_01\Animal\bin\Debug\Animal.exe
+C:\Users\Khanh Nguyen\Desktop\C#\Start_01\Animal\bin\Debug\Animal.pdb
+C:\Users\Khanh Nguyen\Desktop\C#\Start_01\Animal\obj\Debug\Animal.csprojAssemblyReference.cache
+C:\Users\Khanh Nguyen\Desktop\C#\Start_01\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+C:\Users\Khanh Nguyen\Desktop\C#\Start_01\Animal\obj\Debug\Animal.exe
+C:\Users\Khanh Nguyen\Desktop\C#\Start_01\Animal\obj\Debug\Animal.pdb

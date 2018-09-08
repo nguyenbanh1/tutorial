@@ -1,0 +1,7 @@
+C:\Users\Khanh Nguyen\Desktop\C#\Start_02\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\Khanh Nguyen\Desktop\C#\Start_02\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Khanh Nguyen\Desktop\C#\Start_02\Program\bin\Debug\Program.exe.config
+C:\Users\Khanh Nguyen\Desktop\C#\Start_02\Program\bin\Debug\Program.exe
+C:\Users\Khanh Nguyen\Desktop\C#\Start_02\Program\bin\Debug\Program.pdb
+C:\Users\Khanh Nguyen\Desktop\C#\Start_02\Program\obj\Debug\Program.exe
+C:\Users\Khanh Nguyen\Desktop\C#\Start_02\Program\obj\Debug\Program.pdb
