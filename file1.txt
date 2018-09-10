@@ -1,2 +1,3 @@
 today, I saw athenna
 pull : lay het ve ne
+commit : luu lai trang thai cua index
